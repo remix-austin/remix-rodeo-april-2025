@@ -1,18 +1,19 @@
-# Remix Rodeo - March 2025
+# Remix Rodeo - April 2025
 
-A modern, production-ready template for building full-stack React applications using React Router.
+## Prompt
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+Build a new Remix Austin website.
 
-## Features
+We encourage you to unleash your creativity and push the boundaries of what's possible. Whether it's a quirky, off-the-wall concept, a polished and professional design, or a visionary glimpse into the future, we want to see your unique take on the Remix Austin website. Let your imagination run wild and build something that excites you. 
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+Feel free to use the tools, technologies, and libraries you are most comfortable with or want to explore. Try out new techniques, collaborate with others, and create a project that highlights your skills and creativity. This is an opportunity to learn, experiment, and build something unique. 
+
+## Schedule
+
+7:00-7:15p: Eat food & socialize
+7:15-7:45p: Make teams, plan your project! (Get whacky with it, pick a theme and run with it)
+7:45-8:45p: Build all the things
+8:45-9:00p: Presentations
 
 ## Getting Started
 
@@ -33,6 +34,10 @@ npm run dev
 ```
 
 Your application will be available at `http://localhost:5173`.
+
+## Styling
+
+This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
 ## Building for Production
 
@@ -77,11 +82,3 @@ Make sure to deploy the output of `npm run build`
 │   ├── client/    # Static assets
 │   └── server/    # Server-side code
 ```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
