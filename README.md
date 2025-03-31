@@ -10,10 +10,10 @@ Feel free to use the tools, technologies, and libraries you are most comfortable
 
 ## Schedule
 
-7:00-7:15p: Eat food & socialize
-7:15-7:45p: Make teams, plan your project! (Get whacky with it, pick a theme and run with it)
-7:45-8:45p: Build all the things
-8:45-9:00p: Presentations
+- 7:00-7:15p: Eat food & socialize  
+- 7:15-7:45p: Make teams, plan your project  
+- 7:45-8:45p: Build all the things!  
+- 8:45-9:00p: Presentations  
 
 ## Getting Started
 
