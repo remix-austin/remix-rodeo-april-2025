@@ -2,7 +2,7 @@
 
 ## Prompt
 
-Build a new Remix Austin website.
+Build your version of the [Remix Austin website](https://remixaustin.com/).
 
 We encourage you to unleash your creativity and push the boundaries of what's possible. Whether it's a quirky, off-the-wall concept, a polished and professional design, or a visionary glimpse into the future, we want to see your unique take on the Remix Austin website. Let your imagination run wild and build something that excites you. 
 
